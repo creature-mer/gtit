@@ -7,3 +7,4 @@ Desktop.ini
 .vscode/*.log
 .vscode/**/workspaceStorage/
 .vscode/**/history/
+.vscode
