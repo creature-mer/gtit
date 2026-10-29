@@ -1,0 +1,9 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# VS Code transient workspace data
+.vscode/*.log
+.vscode/**/workspaceStorage/
+.vscode/**/history/
